@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*     <! --- index.html --->  */
+
+#carouselExampleDark {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 90%;
+}
+
+.cash {
+    background-color: white;
+    text-align: center;
+    color: black;
+}
+
+p {
+    color: aliceblue;
+}
+
+.back {
+    background-color: aqua;
+}
+
+.p3 {
+    color: black;
+}
+
+.hed {
+    color: indianred;
+}
+
+
+/*     <! --- about.html--->  */
+
+.card-text {
+    color: black
+}
+
+
+/*   contact.html*/
+
+
+/*   service 1*/
+
+.lo {
+    color: gray;
+    text-align: center;
+}
+
+.card-title {
+    font-weight: 500;
+}
